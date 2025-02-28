@@ -1,0 +1,561 @@
+{
+  "about": {
+    "name": "Hariharan Kaushik",
+    "title": "AI Graduate | Web Developer",
+    "subTitle": "Passionate about AI, Web Development, and exploring new technologies.",
+    "description": "Fresher with an AI background and a strong interest in new technology. Eager to explore various domains and enjoy the learning experience.",
+    "quote": "Live the Life as you want",
+    "exp_year": "0",
+    "address": "Visakhapatnam , Andhra Pradesh",
+    "some_total": "90",
+    "phoneNumber": "+91-7569775878",
+    "contactEmail": "kaushikhariharan2003@gmail.com",
+    "avatar": {
+      "public_id": "portfolio3/1713995155677-122l5x.webp",
+      "url": "https://media-hosting.imagekit.io//cf4d6709bcf64be6/IMG-20240406-WA0018%20-%20Copy.jpg?Expires=1834852514&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=l-t26nP-elgXx7OrCZm9-2jzk9wTTuskAyoiKRW-A9PrWZxubOSJaavxnqweVYoagC~EgRXlBUO93D~YdZFHTBuGncJ5YZcaMkXlfOZoAuFghus5IQkPRo6RIK2i8~fITV1WSPVVUBimDRKc8rIysC-Xtb1XmW12taqeTosd4EZ5itJYKVMGZD9BhmwFflpnHLW6gMIwwISiCG4LJrgJfr4LO9r191br1Hd~cy1lT-caLZzDiFpsbK28RwHu6oULDX5T9s~q9CQ6lPsYb21OUalafGWUXdOmSDhBxcRZW4IjUkKHFpUi8uTHLbjC~Lh5BlXi0Kb1A4Rs7P6ib0mtnw__"
+    },
+    "alternateAvatars": [
+      {
+        "_id": "676e772d8a9e1d0a8b0647ca",
+        "public_id": "portfolio3/1713996156944-1hro1b.webp",
+        "url": "https://media-hosting.imagekit.io//246f14a759d046e2/Kaushik_Formal_BB.jpg?Expires=1834851952&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=qY60ukuzrkcTVbIQFH6GvWWJTF~OwxE7JCXFMlEH-BlE8tUBnVnOm0cBeZqnTWqtuzmxzyOJjvdhRYenFYsajR-Wpo-Hg~1JS1rgFy8yPeOtDuDUrdYldSu1lRy5QtQyHevM9rGPkx~QX085CWNcx1nBZ~jUuQePgV6T43eIrTIb0B2Q6fw6E8e0QWYw58iZyESzhtntyv55UVfWR-bcZQLk-fmZjRF-Vo~g~Yp8-FMYKxMF7QfbgoGeZRxFLl0ceivmYsQ8sEboux-QRTlq2IKua3drNbxBhZ9rVEAI~mZVwHamhWHNQhDwShBf~gvig4vPPMQm79Pe~K2VGgfSCg__"
+      }
+    ]
+  },
+  "usageMetrics": {
+    "visits": 0,
+    "downloads": 0
+  },
+  "_id": "65b3a22c01d900e96c4219ae1",
+  "username": "portfolio3",
+  "email": "kaushikhariharan2003@gmail.com",
+  "role": "student",
+  "timeline": [
+    {
+      "company_name": "Haragopal High School",
+      "summary": "(CGPA/10) 9.7, (Percentage/100) 92.15%",
+      "sequence": 6,
+      "startDate": "2017-05-01T00:00:00.000Z",
+      "endDate": "2018-04-01T00:00:00.000Z",
+      "jobTitle": "Matriculation (SSC)",
+      "jobLocation": " Visakhapatnam, AP",
+      "bulletPoints": [],
+      "forEducation": true,
+      "enabled": true,
+      "_id": "65f1fe900556c3f887e9db94"
+    },
+  {
+    "company_name": " Narayana Junior College",
+    "summary": "(CGPA/10) 9.4, (Percentage/100) 91.6%",
+    "sequence": 6,
+    "startDate": "2018-06-01T00:00:00.000Z",
+    "endDate": "2020-05-01T00:00:00.000Z",
+    "jobTitle": " Intermediate (HSC)",
+    "jobLocation": " Visakhapatnam, AP",
+    "bulletPoints": [],
+    "forEducation": true,
+    "enabled": true,
+    "_id": "65f1fe4e0556c3f887e9db22"
+  },
+  {
+    "company_name": "  Amrita Vishwa Vidyapeetham",
+    "summary": "(CGPA/10) 7.5, (Percentage/100) 71.25%",
+    "sequence": 6,
+    "startDate": "2020-06-01T00:00:00.000Z",
+    "endDate": "2024-07-01T00:00:00.000Z",
+    "jobTitle": " B.Tech in Computer Science with AI",
+    "jobLocation": " Chennai, TN",
+    "bulletPoints": [],
+    "forEducation": true,
+    "enabled": true,
+    "_id": "65f1fe1e0556c3f887e9dab2"
+  }
+  ],
+  "skills": [
+    {
+      "enabled": true,
+      "name": "Python",
+      "sequence": 1,
+      "percentage": 90,
+      "image": {
+        "public_id": "1706288708710-nrq74s",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706288708710-nrq74s"
+      },
+      "_id": "65b3e645b48589dfcae187a2"
+    },
+    {
+      "enabled": true,
+      "name": "Java",
+      "sequence": 2,
+      "percentage": 85,
+      "image": {
+        "public_id": "1706288734207-4rlz3m",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706288734207-4rlz3m"
+      },
+      "_id": "65b3e661b48589dfcae187f78"
+    },
+    {
+      "enabled": true,
+      "name": "C++",
+      "sequence": 3,
+      "percentage": 80,
+      "image": {
+        "public_id": "1706288734207-4rlz3m",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706288734207-4rlz3m"
+      },
+      "_id": "65b3e661b48589dfcae187f7"
+    },
+    {
+      "enabled": true,
+      "name": "JavaScript",
+      "sequence": 4,
+      "percentage": 95,
+      "image": {
+        "public_id": "1706288679775-y4qwn3",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706288679775-y4qwn3"
+      },
+      "_id": "65b3df24b48589dfcae18114"
+    },
+    {
+      "enabled": true,
+      "name": "React",
+      "sequence": 5,
+      "percentage": 92,
+      "image": {
+        "public_id": "1706291833080-0loo09",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706291833080-0loo09"
+      },
+      "_id": "65b3de41b48589dfcae17fbd"
+    },
+    {
+      "enabled": true,
+      "name": "Redux",
+      "sequence": 6,
+      "percentage": 88,
+      "image": {
+        "public_id": "1706286913147-nwiky8",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286913147-nwiky8"
+      },
+      "_id": "65b3df41b48589dfcae1814d"
+    },
+    {
+      "enabled": true,
+      "name": "Node.js",
+      "sequence": 7,
+      "percentage": 88,
+      "image": {
+        "public_id": "1706286990341-tznh4",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286990341-tznh4"
+      },
+      "_id": "65b3df8fb48589dfcae18204"
+    },
+    {
+      "enabled": true,
+      "name": "Express.js",
+      "sequence": 8,
+      "percentage": 85,
+      "image": {
+        "public_id": "1706286990341-tznh4",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286990341-tznh4"
+      },
+      "_id": "some_unique_id_for_expressjs"
+    },
+    {
+      "enabled": true,
+      "name": "HTML",
+      "sequence": 9,
+      "percentage": 95,
+      "image": {
+        "public_id": "1706286058630-v3ax0a",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286058630-v3ax0a"
+      },
+      "_id": "65b3dbeba5c8d2db7b6164bc"
+    },
+    {
+      "enabled": true,
+      "name": "CSS",
+      "sequence": 10,
+      "percentage": 95,
+      "image": {
+        "public_id": "1706286273084-romle",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286273084-romle"
+      },
+      "_id": "65b3dcc1b48589dfcae17e4d"
+    },
+    {
+      "enabled": true,
+      "name": "Tailwind CSS",
+      "sequence": 11,
+      "percentage": 95,
+      "image": {
+        "public_id": "1706286616701-2jka3q",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286616701-2jka3q"
+      },
+      "_id": "65b3de19b48589dfcae17f94"
+    },
+    {
+      "enabled": true,
+      "name": "MongoDB",
+      "sequence": 12,
+      "percentage": 80,
+      "image": {
+        "public_id": "1706286966065-p2yrx9",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286966065-p2yrx9"
+      },
+      "_id": "65b3df76b48589dfcae181c6"
+    },
+    {
+      "enabled": true,
+      "name": "MySQL",
+      "sequence": 13,
+      "percentage": 70,
+      "image": {
+        "public_id": "1706286966065-p2yrx9",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286966065-p2yrx9"
+      },
+      "_id": "some_unique_id_for_mysql"
+    },
+    {
+      "enabled": true,
+      "name": "NLP",
+      "sequence": 14,
+      "percentage": 70,
+      "image": {
+        "public_id": "1706287155946-z2oybb",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706287155946-z2oybb"
+      },
+      "_id": "some_unique_id_for_nlp"
+    },
+    {
+      "enabled": true,
+      "name": "Deep Learning",
+      "sequence": 15,
+      "percentage": 75,
+      "image": {
+        "public_id": "1706287155946-z2oybb",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706287155946-z2oybb"
+      },
+      "_id": "some_unique_id_for_deeplearning"
+    },
+    {
+      "enabled": true,
+      "name": "Reinforcement Learning",
+      "sequence": 16,
+      "percentage": 65,
+      "image": {
+        "public_id": "1706287155946-z2oybb",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706287155946-z2oybb"
+      },
+      "_id": "some_unique_id_for_reinforcementlearning"
+    },
+    {
+      "enabled": true,
+      "name": "MATLAB",
+      "sequence": 17,
+      "percentage": 60,
+      "image": {
+        "public_id": "1706287155946-z2oybb",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706287155946-z2oybb"
+      },
+      "_id": "some_unique_id_for_matlab"
+    },
+    {
+      "enabled": true,
+      "name": "LaTeX",
+      "sequence": 18,
+      "percentage": 60,
+      "image": {
+        "public_id": "1706287155946-z2oybb",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706287155946-z2oybb"
+      },
+      "_id": "some_unique_id_for_latex"
+    },
+    {
+      "enabled": true,
+      "name": "Git",
+      "sequence": 19,
+      "percentage": 90,
+      "image": {
+        "public_id": "1706286842731-r0eyn",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286842731-r0eyn"
+      },
+      "_id": "65b3defbb48589dfcae180dd"
+    },
+    {
+      "enabled": true,
+      "name": "GitHub",
+      "sequence": 21,
+      "percentage": 90,
+      "image": {
+        "public_id": "1706288708710-nrq74s",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706288708710-nrq74s"
+      },
+      "_id": "65b3e645b48589dfcae187a752"
+    },
+      {
+      "enabled": true,
+      "name": "Vercel",
+      "sequence": 20,
+      "percentage": 90,
+      "image": {
+        "public_id": "1706286729467-rbblgb",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286729467-rbblgb"
+      },
+      "_id": "65b3de89b48589dfcae18015"
+    }
+  ],
+  "youtube": [
+    {
+      "url": "",
+      "title": "Sample Video",
+      "sequence": 1,
+      "image": null,
+      "embedId": "eitWM4gNZoM",
+      "enabled": true,
+      "_id": "65f482e5d689e5777d9457ae"
+    }
+  ],
+  "projects": [
+    {
+      "liveurl": "https://apex-auth-frontend.onrender.com/",
+      "githuburl": "https://github.com/Kaushik-23-2003/Apex-Auth",
+      "title": "Apex Auth",
+      "sequence": 14,
+      "image": {
+        "public_id": "1706285511679-xe7r9t",
+        "url": "https://media-hosting.imagekit.io//71f75d279b4b4b0c/Screenshot%202025-02-26%20211605.png?Expires=1835192791&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=zhMdgMC-Q711VYFQpDL-yEKs17Q9L92U71r2fzy21gXbWNQd7wgwMhsfFK8~xaDjasPRS2NI-a~r8VU~d9Rjp5HOAWy76rDLlBtcjQuo4-oFZ-cyPVQxALHFC2k5U44tQzwa5Eb4-cmAANxXT1MkIYrBc59UhhbrNGtYatsXh555rhEglzvdS39iRP4EhN8Lp8pzo5CAsLjsi5AoYlSBRjzjaf7S~bkLKrsGIdL8IefcU~0JtA2NOEOMUPet2iIIQ9HTI78NBbrikuEtymIFvoh94J-pDF3TCigsHFbvx8LL7RZlxnMLCMYeI6lM6bAcXPRb3-6YaHQmvSLGG--1uA__"
+      },
+      "description": " Modern, Secure Authentication for Web Applications.$Built for modern web applications, this system provides a complete and robust authentication solution, encompassing JWT, Google Authentication, HTTP-only cookies, bcrypt, and email notifications.$With a decoupled React frontend and Nodejs backend, Apex Auth delivers a secure RESTful API, ensuring performance, maintainability, and ease of integration so you can focus on building your application's core features. ",
+      "techStack": ["Reactjs ", " Redux ", " Mern ", " CSS ", " Nodejs ", " MongoDB "],
+      "projectCategories": ["Web dev", "MERN"],
+      "_id": "65b3d9c8d017f6b49c778ca7",
+      "enabled": true
+    },
+    {
+      "liveurl": "https://kaushik-23-2003.github.io/Vision-Pro-Clone/",
+      "githuburl": "https://github.com/Kaushik-23-2003/Vision-Pro-Clone",
+      "title": "Apple Vision Pro Clone",
+      "sequence": 15,
+      "image": {
+        "public_id": "1706285468702-igx05q",
+        "url": "https://media-hosting.imagekit.io//e854aeb1b2bc4245/Screenshot%202025-02-26%20211925.png?Expires=1835193011&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=jFK58wpMrIE9whsBRSmK0v7eiRiVXa1Nor3CTglOgQFZfYH54Ajc9iQkvuHoquZBsqBOF5VXmN~70SyAmjqdTbbJ1f4tZKBjKbLBim3KP2GQCcUpw3W0oGgTA7qp9O6DDLldSeLlka4buyy9kNwS1nXQdDcMOU8hWnQfudHVXUocNuyPR9jssDwK-RoecnoFlMRu9~xH164SIYp1cLMTwaGnmlNWYDnxWVVe2rjuIQdEg4D-EVu7eH5l1WWWkZ8UItS17OKLQk2stF7mFA7g~4JsIRWukqmhRouFt7nwXPejv7TsVrddQB9zeS1H8sVLSx8MEO9k53VTTgMOSkoO7g__"
+      },
+      "description": " Immersive Navigation, Dynamic Video, and Scroll-Triggered Animations. A web-based clone of the Apple Vision Pro product page, designed to showcase a clean and modern interface. The project replicates key elements from the original site, including interactive navigation, dynamic video integration, and scroll-triggered effects. ",
+      "techStack": [" HTML" , " CSS " , " JavaScript "],
+      "projectCategories": ["Web dev"],
+      "_id": "65b3d99dd017f6b49c778c86",
+      "enabled": true
+    },
+    {
+      "liveurl": "https://github.com/Kaushik-23-2003/NLP-Dup-Questions",
+      "githuburl": "https://github.com/Kaushik-23-2003/NLP-Dup-Questions",
+      "title": "Duplicate Question Slayer",
+      "sequence": 13,
+      "image": {
+        "public_id": "1706285431821-3lfg2r",
+        "url": "https://media-hosting.imagekit.io//0dbbf7794bf74c89/Find_Duplicate_Content_on_Websites_8145020fbc.webp?Expires=1835198596&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=nTrj5ykSwoOLP3a21NrrfXpCXJs8d03~EPN~vSBxlV-c5Kw1j5ZbXwqdDExsYBX~DQ3rOxjsvSGqz5eS8c0w-xPRkzeosW2o1JZu4xtOV3FvW02L-nh~8H4M1xAd9Yqi588auikJ3X5kLwf3cBF92Ucx6Mzwnr5Vpwj98xDZVdPXk9PQBDqEnq7i6KZXDmExchhrHol1Kt4zkafF6vOZ8lTZ-gEFOYQrWI86Cwr5D2wh-ZCiBUJ8aiEblPrQQ~jJFIeHZxEOim3Ka8IYfVraQlOaV4FczCGUPhDzy4XorDSioQ9y~E2noQLbEZBbxvmDoo~hy~-WkcJtWJRyqaAwxA__"
+      },
+      "description": " Improving online forum quality by flagging duplicate questions with ML. $This project aims to enhance online Q&A platforms like Quora by developing a machine learning model to detect duplicate question pairs. By reducing redundant content, the system improves platform efficiency and user experience. $Using the Quora Question Pairs dataset, the project involved text preprocessing techniques like tokenization, lemmatization, and stop word removal. Feature extraction methods such as Bag-of-Words (BoW), TF-IDF, Word2Vec embeddings, and Cosine Similarity were employed. Various machine learning models—including Logistic Regression, Random Forest, SVM, and XGBoost—were trained and evaluated. The Random Forest model achieved the best performance, with an accuracy of 68.67% and an F1-score of 67.81%. $This project demonstrates expertise in Natural Language Processing (NLP), machine learning classification, and data analysis, offering a practical solution for improving information retrieval in online communities.",
+      "techStack": [" Python ", " Scikit-learn ", " NLTK ", " Pandas ", " NumPy ", "Gensim"],
+      "projectCategories": ["NLP", "ML/DL"],
+      "_id": "65b3d978d017f6b49c778c67",
+      "enabled": true
+    },
+    {
+      "liveurl": "#",
+      "githuburl": "#",
+      "title": "Attica Eats",
+      "sequence": 12,
+      "image": {
+        "public_id": "1706285416017-wra7swm",
+        "url": "https://media-hosting.imagekit.io//daeca5aeaf85413f/How-Restaurants-Can-Improve-their-Online-Presence.webp?Expires=1835199297&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=WSfQ3JEi5LRnUTkv34dV-EpBpwlle2cpgMqaHU5oquhSBgI2AKSmNkF4PiMONoM~7YPVXVBQDNOUqxiNekNqyPRV9w0fjMdScincj4RuL61UYS~o6G59efLxLlE2tVhlbBhG2~1RWv5x8ioDuYihyNvRlWaIlljUyrwwaovePPhkoAyepNp4GokFYTz9~ROCQNsgt7cNFY0vM75N5~kieNGZDnir~0D8qfdszPqhCzuONr-54RfvM8s4hxfpPzFr5CZgwmqpr0eyWR9RugUgnok8V8UrQqkOguhPXhfy1Xj0XhoouSqpwRtZ~Fzjp73KELr0FYDNn8R5F-vXUlG3Nw__"
+      },
+      "description": " Data-driven analysis of the restaurant market in Attica, Greece. $This project analyzes the restaurant market in Attica, Greece, using data science to identify optimal business locations. Restaurant data, including locations, ratings, and categories, was collected via web scraping (Wikipedia) and API integration (Foursquare), while property pricing data was extracted from Spitogatos.gr. After preprocessing, K-means clustering (using Canberra distance) segmented the market, with the Elbow method determining the optimal cluster count. $Geospatial visualization using Folium mapped restaurant clusters and property prices, revealing high-density zones, underserved areas, and emerging culinary trends. The insights highlight market opportunities, helping entrepreneurs and investors make informed decisions. This project showcases expertise in web scraping, API integration, machine learning (K-means clustering), and geospatial analysis, demonstrating the power of data-driven business strategy.",
+      "techStack": [" Python ", " Scikit-learn ", " Pandas ", " NumPy ", " Beautiful Soup "],
+      "projectCategories": ["ML/DL"],
+      "_id": "65b3d969d017f6b49c778c4a",
+      "enabled": true
+    },
+    {
+      "liveurl": "#",
+      "githuburl": "#",
+      "title": "SDN Shield",
+      "sequence": 11,
+      "image": {
+        "public_id": "1706285405228-98liol",
+        "url": "https://media-hosting.imagekit.io//8d792b260e3e4b8a/How%20To%20Prevent%20DDoS%20Attacks-1.webp?Expires=1835200548&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=sUaHnHjiWwJZHaBTzNbclnrisvHbHgBNuqHX8fvruIFmzl6a-77BsTyZpmDPqE4qvGRcucR8864lAE5vC0sJCDdSzotx1O6~YdCq16-xuCtGBd4TT9PQmLFlqODTK6Et--8PEBDm4-LIg~WcBs2iGJoN9CRzU5QEM~c7HHy4USbuu5uQNhE12QdAe~yTbTX5f5pakYTjH9BUhpm79gnfDixnQXrcXBnHEbqfDEILM7s4co7h0Krq6IiD3LUMFtNmR61qxuRAU7aejzRKkKxZqr2cejsl8WwogeHyxGER79AjfNCyBPo-6i6DkYNc2kh4iluG6wwZ~DP5RaNLfwK1BA__"
+      },
+      "description": " Securing SDN networks against DDoS attacks with real-time monitoring. $This project focuses on securing Software Defined Networking (SDN) environments against Distributed Denial of Service (DDoS) attacks through real-time detection and automated mitigation. The system continuously monitors network traffic, extracts statistical features, and employs a Support Vector Machine (SVM) algorithm to detect anomalies indicative of DDoS attacks. Upon detection, mitigation measures, such as port blocking via the Ryu SDN controller, are automatically triggered to maintain network stability. $Developed and tested using Mininet for network simulation, Ryu as the SDN controller, and OpenFlow for communication, the system achieved 99.26% accuracy and a 100% malicious traffic detection rate with zero false positives. This project demonstrates expertise in SDN, network security, machine learning for anomaly detection, and network traffic analysis, providing a robust solution for safeguarding modern network infrastructures.",
+      "techStack": [" SDN ", " Python ", " Scikit-learn ", " Wireshark "],
+      "projectCategories": ["ML/DL"],
+      "_id": "65b3d95dd017f6b49c778c2f",
+      "enabled": true
+    },
+    {
+      "liveurl": "https://ieeexplore.ieee.org/document/10455209",
+      "githuburl": "https://github.com/Kaushik-23-2003/DLforMelodyGen",
+      "title": " AI Melody Generator",
+      "sequence": 10,
+      "image": {
+        "public_id": "1706285393568-zl9mcc",
+        "url": "https://media-hosting.imagekit.io//4cc7d865727145a1/freepik__upload__6572.png?Expires=1835201005&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=zRmMaaIraZeZGFBjBtQvAVXl6K98i6uhiGDNbRE~kuMIGHp0eAHqwTWA7gjqb-XAl1Yc7u2L6SsHY~I5ILlTEeRBoSO7xa2xEVDCAFH3LvcV8TC5cX-YCgwN~lV26fqHQkqCsw5G27TpOMpwXlcXDENubW~rUZPzGOmLw1dyLdxtnIkrN3va0czoc4EmQwzvnV4o5ZFZGxAE5JgJ3SAKT0lshlWkL-t4K6AzwAZ6mIWTFWh--dkCYIs2mpVTklFyFr6T0hIgAJgmQl1C5PDFTJgYwGH4TK2CgjOTJx2662LjWMpkKaFCG8enPOAhCxvGD8PYswEnjgkWO1zSeolZMA__"
+      },
+      "description": " AI-generated piano melodies using LSTM networks. $This project explores AI-driven music composition by developing an LSTM-based model to generate original monophonic piano melodies. Using the Essen Folksong Collection (ESAC) dataset, the model was trained to learn musical patterns and compose coherent melodies. $The workflow involved music preprocessing (filtering, transposing, and encoding melodies), LSTM network design (input processing, LSTM layers, dropout for regularization, and softmax-based prediction), and model training using categorical cross-entropy and the Adam optimizer. The trained model generated melodies by iteratively predicting notes from a seed sequence. $With 91.78% accuracy and a low loss of 23.91%, the system demonstrated its ability to replicate musical structures effectively. This project highlights expertise in deep learning with LSTMs, music data processing, and AI-driven creativity, showcasing the potential of machine learning in generative music composition.",
+      "techStack": [" Python ", " TensorFlow ", " Keras ", " Music21 "],
+      "projectCategories": ["DL", "ML/DL"],
+      "_id": "65b3d952d017f6b49c778c16",
+      "enabled": true
+    }
+  ],
+  "social_handles": [
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/hariharan_kaushik?igsh=OTF0cTB0OXg5bDZm",
+      "image": {
+        "public_id": "1708718250873-3038n7.webp",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1708718250873-3038n7.webp"
+      },
+      "enabled": true,
+      "_id": "65b3ea4feb20546ae6d4641d"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/hariharan-kaushik/",
+      "image": {
+        "public_id": "1708718263294-2lfj67.webp",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1708718263294-2lfj67.webp"
+      },
+      "enabled": true,
+      "_id": "65b3e99beb20546ae6d463c2"
+    },
+    {
+      "enabled": true,
+      "platform": "Twitter",
+      "url": "https://x.com/i_Kaushik_03",
+      "image": {
+        "public_id": "1708718328750-d4jsq.webp",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1708718328750-d4jsq.webp"
+      },
+      "_id": "65b3e47cb48589dfcae185bd"
+    },
+    {
+      "enabled": true,
+      "platform": "GitHub",
+      "url": "https://github.com/Kaushik-23-2003",
+      "image": {
+        "public_id": "1708718346601-xldm.webp",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1708718346601-xldm.webp"
+      },
+      "_id": "65b3e43cb48589dfcae1856c"
+    }
+  ],
+
+  "services": [
+    {
+      "name": "Frontend Web App",
+      "charge": " $100 ",
+      "desc": "Engaging user interfaces with React, HTML, CSS, and JavaScript for interactive web experiences.",
+      "image": {
+        "public_id": "1706290914024-725ytf",
+        "url": "https://media-hosting.imagekit.io//e05603f6ba664d9a/https___dev-to-uploads.s3.amazonaws.com_uploads_articles_1o81e4cmk8vbjna0bf7s.jpg?Expires=1835368031&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=JSVsI-8h20t-Nu6BgC3Hzq1RIy1W3sh~mPF-3hB1RAjPUgsGzGIwde-ZazBZ9uR7CZPgip5ikJzXKfz0ZuwfFOhq9861jnhq~oxmBPqx3EuzHbeDyGpUE1-JYrw1BDsFXMqsGOZiDpP~FGdZsWVOmZPx~hTnzoQonTaaYg9w82sFBwQqCfsqcQzj5~yR9ZR4OSOmuF0I5VNvc6-iY9ntb4VTB~epElOg4WanzKe~o1v7LWUzFAMTw8yAKNo-DiPHmSrzobA2sHOWaUw0BxppXnRMwOMMt762a2z~~ftXxzTEszB9H1-U1ux~sr3V9ZdH4kRA9bT3O3qwQ5ExkVl~PQ__"
+      },
+      "enabled": true,
+      "_id": "service_frontend_web_dev_id_1"
+    },
+    {
+      "name": "Backend Web App",
+      "charge": " $150 ",
+      "desc": "Robust server-side apps using Node.js, Express.js, MongoDB, and MySQL for efficient APIs and logic.",
+      "image": {
+        "public_id": "portfolio3/1710357775748-9vwq4q.jpeg",
+        "url": "https://media-hosting.imagekit.io//9caf40cede35480a/Screenshot%202025-02-28%20220108.png?Expires=1835368508&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=hOYTnDCPlKlgDHXNHmPvE85ujIhjAufSQON8WdPzqSbIlEwpJMeBw1JVyHR~98GkxayqujaagnEWGtmtsqZu3ra0jiWKdbfEyn1X~e-npMysmo~TeXQu8iSYPh0zMX~HIwozt5NAcDtYebbNVq5mXaXiTmK27VkJlDyGxUGAnVLiuZIMcafBzb~GDTZDqFDaWWr0~RR8bq~F-1dKU65bLNNCkrHe-zILVjULUy-uGZmj1aJEKo6hr9v6YJafFg2HzjjMmJ68ydBWLQN3ZW39dlzxTcpBjkHcYWjb~Yb5uonxEgoEnd8GG6o1KiM9Mf0r3o69NutLq2GNWiuah~Gyvw__"
+      },
+      "enabled": true,
+      "_id": "service_backend_web_dev_id_2"
+    },
+    {
+      "name": "Full-Stack Web App",
+      "charge": " $300 ",
+      "desc": "Complete web solutions integrating frontend & backend for seamless user experiences.",
+      "image": {
+        "public_id": "portfolio3/1710357752227-6f5trs.jpeg",
+        "url": "https://media-hosting.imagekit.io//a39b0e9e0e2249e0/Screenshot%202025-02-28%20220326.png?Expires=1835368508&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=XckA6jFGYYtd70-F4p9aYGgWOMka4ukPAWj1MIYKYLQ~Kz0H9TQSyCIML1kgdxIJarGGOZxSwRfKXVVVB6bC6AbkZd6tEKyLhHOtRAwj5w2a1osrOlnWBktUxE7Dl6CrXJX~O4jC02ekmRkmyt6e6A9cnV8DpL-ur0JYxrfUH4np9Ve2FCxO68dRti3Rho1hzhqGMwovh9dhBOjzcCGjJ1kQzLIBAss5NyhldTWJ11Sgq5-rz9EhZERRkMMHSKSackYvYy~N4UDVlmUudNWXa2P1-KLZfCKzDjOskS51OCOrYDn8byCxYl-secUWVax~ER-O~9BRN-7fZsFP53ZKxw__"
+      },
+      "enabled": true,
+      "_id": "service_fullstack_web_dev_id_3"
+    },
+    {
+      "name": "AI/ML Model App",
+      "charge": " $350 ",
+      "desc": "Developing & evaluating ML models with NLP, Deep Learning for problem-solving & insights.",
+      "image": {
+        "public_id": "portfolio3/1710357680224-phijt.png",
+        "url": "https://media-hosting.imagekit.io//573f57de5079426c/Screenshot%202025-02-28%20220432.png?Expires=1835368572&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=X02iRhepEKQRBMqUM29vNe1PAdpTmppkwhOnSrW9sBT4FCfCZQRr4hRdFAx5mQUZgBdnrJ3txqYB8OWXqFBEHzX3qrhycrA1~SkmThV-Pg-O5FBcs1xJngGMX2IfgJbf1RMFoOQ2PBXPgqWXXwWqRrfczjW-BcN6I0m207Ld3BwfLqlpFzHZ0rfwsVai3fIJiTQYf4OmDsdC9ji8DVty5tL-ywMPIVXZQx4K0CCIRPhP-1a91zJEwlu~nsrv8TG~2Zq~6Igyr6j9gLOUDhSiDYHkDU2RxCN6WyjQigWo3RqdR8L9n34~3YjZ66RcbVMCxBr6K0mmlKQnnClvYiAu5A__"
+      },
+      "enabled": true,
+      "_id": "service_ai_ml_model_dev_id_4"
+    }
+  ],
+  
+  "testimonials": [
+    {
+      "image": {
+        "public_id": "portfolio3/1710357726628-c4dr18.png",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357726628-c4dr18.png"
+      },
+      "name": "Samantha Wu",
+      "review": "I had the pleasure of working closely with John on a challenging project. He is a highly skilled developer who consistently delivered excellent results. His ability to understand complex requirements and implement efficient solutions was truly impressive. I would highly recommend him to any organization looking for a talented developer.",
+      "position": "Software Engineer",
+      "enabled": true,
+      "_id": "65f1fcdf0556c3f887e9d74c"
+    },
+    {
+      "image": {
+        "public_id": "portfolio3/1710357705657-aimydg.png",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357705657-aimydg.png"
+      },
+      "name": "David Rodriguez",
+      "review": "Throughout our project, John demonstrated exceptional technical skills and a strong work ethic. He consistently met deadlines and produced high-quality code that exceeded our expectations. His proactive approach to problem-solving and effective communication made him a valuable member of our team\n",
+      "position": "Project Manager",
+      "enabled": true,
+      "_id": "65f1fcca0556c3f887e9d6e8"
+    },
+    {
+      "image": {
+        "public_id": "portfolio3/1710357683739-tqeav.png",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357683739-tqeav.png"
+      },
+      "name": " Emily Chen",
+      "review": "I had the pleasure of collaborating with John on a complex web application project. His ability to translate design concepts into functional, user-friendly features was impressive. John consistently delivered high-quality work and was always open to feedback. I look forward to working with him again in the future.\n\n",
+      "position": " Emily Chen",
+      "enabled": true,
+      "_id": "65f1fcb30556c3f887e9d662"
+    },
+    {
+      "image": {
+        "public_id": "portfolio3/1710357647030-pi5cis.png",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357647030-pi5cis.png"
+      },
+      "name": " Michael Lee",
+      "review": "John is a skilled developer with a keen eye for detail. He played a crucial role in our team, consistently producing clean, efficient code. His collaborative nature and willingness to take on new challenges make him an invaluable asset to any project.\"",
+      "position": " Lead Developer",
+      "enabled": true,
+      "_id": "65f1fc8f0556c3f887e9d4e5"
+    },
+    {
+      "image": {
+        "public_id": "portfolio3/1710357534893-2s9b5d.png",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357534893-2s9b5d.png"
+      },
+      "name": "Sarah Johnson",
+      "review": "Working with John was an absolute delight. Their professionalism and technical prowess were evident from day one. He consistently delivered top-notch code and went above and beyond to ensure the success of our project. I highly recommend him for any development endeavor",
+      "position": " Product Manager",
+      "enabled": true,
+      "_id": "65f1fc1f0556c3f887e9d31d"
+    }
+  ],
+  "createdAt": "2024-01-26T12:14:36.514Z",
+  "updatedAt": "2024-05-08T17:53:29.758Z",
+  "__v": 74,
+  "refreshToken": ""
+}
