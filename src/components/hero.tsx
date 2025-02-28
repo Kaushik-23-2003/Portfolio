@@ -1,7 +1,6 @@
 "use client";
 
 import Link from "next/link";
-import Image from 'next/image'; // Import Image component
 
 import { About } from "../utils/interface";
 import { SlideIn, Transition } from "./ui/Transitions";
@@ -23,19 +22,17 @@ const Hero = ({ about }: HeroProps) => {
         <div className="relative h-full w-full">
           <div className="flex items-center justify-center flex-col h-full pb-10">
             <Transition>
-              <Image // Use Image component
+              <img
                 src={about.avatar.url}
                 alt={about.name}
-                className="rounded-full size-36 object-cover"
-                width={144} // Example width - adjust as needed
-                height={144} // Example height - adjust as needed
+                className="rounded-full size-28 object-cover"
               />
             </Transition>
             <div className="py-6 flex items-center flex-col">
               <h2 className="md:text-7xl text-4xl font-bold overflow-hidden">
-                <SlideIn>Hello! I'm {about.name}</SlideIn> {/* Escaped apostrophe */}
+                <SlideIn>Hello! I&apos;m {about.name}</SlideIn>
               </h2>
-              <h1 className="md:text-6xl text-3xl overflow-hidden">
+              <h1 className="md:text-7xl text-3xl overflow-hidden">
                 <SlideIn>{about.title}</SlideIn>
               </h1>
             </div>
@@ -51,7 +48,7 @@ const Hero = ({ about }: HeroProps) => {
                 href={"#contact"}
                 className="px-5 py-3 mt-4 rounded-full border border-white/50 flex items-center gap-2 group"
               >
-                <TextReveal>Let's talk</TextReveal> {/* Escaped apostrophe */}
+                <TextReveal>Let&apos;s talk</TextReveal>
                 <ArrowUpRight />
               </Link>
             </Transition>
