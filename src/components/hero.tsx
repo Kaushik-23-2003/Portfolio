@@ -25,14 +25,14 @@ const Hero = ({ about }: HeroProps) => {
               <img
                 src={about.avatar.url}
                 alt={about.name}
-                className="rounded-full size-28 object-cover"
+                className="rounded-full size-36 object-cover"
               />
             </Transition>
             <div className="py-6 flex items-center flex-col">
               <h2 className="md:text-7xl text-4xl font-bold overflow-hidden">
                 <SlideIn>Hello! I&apos;m {about.name}</SlideIn>
               </h2>
-              <h1 className="md:text-7xl text-3xl overflow-hidden">
+              <h1 className="md:text-6xl text-3xl overflow-hidden">
                 <SlideIn>{about.title}</SlideIn>
               </h1>
             </div>
