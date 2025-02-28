@@ -29,10 +29,10 @@ const Hero = ({ about }: HeroProps) => {
               />
             </Transition>
             <div className="py-6 flex items-center flex-col">
-              <h2 className="md:text-7xl text-4xl font-bold overflow-hidden">
+              <h2 className="md:text-7xl text-2xl font-bold overflow-hidden text-center w-full">
                 <SlideIn>Hello! I&apos;m {about.name}</SlideIn>
               </h2>
-              <h1 className="md:text-6xl text-3xl overflow-hidden">
+              <h1 className="md:text-6xl text-xl overflow-hidden text-center w-full">
                 <SlideIn>{about.title}</SlideIn>
               </h1>
             </div>
