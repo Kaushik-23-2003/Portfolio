@@ -29,10 +29,10 @@ const Hero = ({ about }: HeroProps) => {
               />
             </Transition>
             <div className="py-6 flex items-center flex-col">
-              <h2 className="md:text-7xl text-4xl font-bold overflow-hidden">
-                <SlideIn>Hello! I&apos;m {about.name}</SlideIn>
+              <h2 className="md:text-5xl text-2xl font-bold overflow-hidden text-center w-full"> {/* Added text-center and w-full */}
+                <SlideIn>Hello! I'm {about.name}</SlideIn>
               </h2>
-              <h1 className="md:text-6xl text-3xl overflow-hidden">
+              <h1 className="md:text-6xl text-xl overflow-hidden text-center w-full"> {/* Added text-center and w-full */}
                 <SlideIn>{about.title}</SlideIn>
               </h1>
             </div>
@@ -48,7 +48,7 @@ const Hero = ({ about }: HeroProps) => {
                 href={"#contact"}
                 className="px-5 py-3 mt-4 rounded-full border border-white/50 flex items-center gap-2 group"
               >
-                <TextReveal>Let&apos;s talk</TextReveal>
+                <TextReveal>Let's talk</TextReveal>
                 <ArrowUpRight />
               </Link>
             </Transition>
