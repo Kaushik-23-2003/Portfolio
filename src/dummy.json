@@ -283,6 +283,17 @@
     },
     {
       "enabled": true,
+      "name": "Vercel",
+      "sequence": 20,
+      "percentage": 90,
+      "image": {
+        "public_id": "1706286729467-rbblgb",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286729467-rbblgb"
+      },
+      "_id": "65b3de89b48589dfcae18015"
+    },
+    {
+      "enabled": true,
       "name": "GitHub",
       "sequence": 21,
       "percentage": 90,
@@ -292,16 +303,16 @@
       },
       "_id": "65b3e645b48589dfcae187a752"
     },
-      {
+    {
       "enabled": true,
-      "name": "Vercel",
-      "sequence": 20,
+      "name": "Next.js",
+      "sequence": 22,
       "percentage": 90,
       "image": {
         "public_id": "1706286729467-rbblgb",
         "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286729467-rbblgb"
       },
-      "_id": "65b3de89b48589dfcae18015"
+      "_id": "65b3de89b48589dfcae1809015"
     }
   ],
   "youtube": [
