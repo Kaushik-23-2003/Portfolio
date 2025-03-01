@@ -313,6 +313,17 @@
         "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286729467-rbblgb"
       },
       "_id": "65b3de89b48589dfcae1809015"
+    },
+        {
+      "enabled": true,
+      "name": "Computer Vision",
+      "sequence": 23,
+      "percentage": 90,
+      "image": {
+        "public_id": "1706286729467-rbblgb",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286729467-rbblgb"
+      },
+      "_id": "65b3de89b48589dfke1809015"
     }
   ],
   "youtube": [
